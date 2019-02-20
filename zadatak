@@ -1,0 +1,44 @@
+
+Kompetencije potrebne za kompetentno obavljanje poslova podatkovno/informacijskih intenzivnih struka
+
+#Library Carpentry
+
+Poznavanje Unix-a, Python-a, SQL-a, GIT-a
+Poznavanje softwera i rad na knjižničnim zadacima
+Poznavanje rada određenih organizacija
+Poznavanje strateških planova; primjena misije i vizije ustanove
+Učinkovit rad s istraživačima, IT kolegama, te kolegama iz sustava
+
+#Data Carpentry
+
+Radionice za sljedeća znanstvena polja:
+-ekologija
+-genomika
+-društvene znanosti
+-geoprostorni podaci
+
+Za ekologiju su to: organizacija podataka u proračunskim tablicama za ekologe, pregled ekološke radionice, čišćenje podataka sa Open Refine za ekologe, upravljanje podacima pomoću SQL, analiza podataka i vizualizacija u R, analiza podataka i vizualizacija u Pythonu
+
+Za genomiku: pregled radionice, organizacija i upravljanje projektima za genomiku, uvod u komandnu liniju za genomiku, obrada podataka, uvod u računalstvo, analiza podataka i vizualizacija u R
+
+Za društvene znanosti: pregled radionice, analiza podataka i vizualizacija u Pythonu, analiza podataka i vizualizaciju u R, upravljanje podacima sa SQL-om, organizacija podataka u proračunskim tablicama, čišćenje podataka u OpenRefine-u
+
+Za geoprostorne podatke: pregled radionica, uvod u geoprostorne koncepte, uvod u R za geoprostorne podatke, uvod u geoprostorne rasterke i vektorske podatke s R
+
+#Software Carpentry
+
+Crtanje i programiranje u Pythonu
+Rad u Unix Shell-u
+Kontrola verzija sa Git-om
+Programiranje s MATLAB-om
+Korištenje baza podataka i SQL-a
+Kontrola verzija s Mercurial-om
+Programiranje sa GAP-om
+Testiranje i kontinuirana integracija s Pythonom
+Programiranje u R-u
+
+#Programi povezani s informacijskim djelatnostima
+
+SQL – najpopularniji računalni jezik za izradu, traženje, ažuriranje i brisanje podataka iz relacijskih baza podataka. Standardiziran je preko standarda ANSI i ISO.
+UNIX – složeni operativni sustav koji zadovoljava velik broj najrazličitijih korisničkih zahtjeva. Istovremeno može raditi s više aplikacija. 
+Python – programski jezik opće namjene. Dopušta programerima korištenje nekoliko stilova programiranja. Najviše se koristi na Linuxu. Koristi se u knjižničarstvu.
